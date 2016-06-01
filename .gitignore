@@ -2,7 +2,7 @@
 
 # Virtual Envs
 env/
-
+venv
 # Exclude the temp png files
 temp/
 
